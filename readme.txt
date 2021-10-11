@@ -1,4 +1,4 @@
-AAC(Aggregate Array Computation)の実験で用いた漸増化システムです～
+~AAC(Aggregate Array Computation)の実験で用いた漸増化システムです~
 
 incrementalization.pyとdevide_index_module.pyはセットで使います。
 incrementalization.pyに入力を記述し、devide_index_module.pyをモジュールとして使うことで漸増化が行われるという流れです。
